@@ -1,0 +1,105 @@
+C:\Users\aluno\source\repos\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.exe
+C:\Users\aluno\source\repos\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.deps.json
+C:\Users\aluno\source\repos\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.runtimeconfig.json
+C:\Users\aluno\source\repos\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.dll
+C:\Users\aluno\source\repos\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.pdb
+C:\Users\aluno\source\repos\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto_agenda_contatos_csharp.Form1.resources
+C:\Users\aluno\source\repos\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.AssemblyInfo.cs
+C:\Users\aluno\source\repos\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.dll
+C:\Users\aluno\source\repos\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\refint\projeto-agenda-contatos-csharp.dll
+C:\Users\aluno\source\repos\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.pdb
+C:\Users\aluno\source\repos\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.genruntimeconfig.cache
+C:\Users\aluno\source\repos\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\ref\projeto-agenda-contatos-csharp.dll
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp (2)\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.exe
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp (2)\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.deps.json
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp (2)\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.runtimeconfig.json
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp (2)\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.dll
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp (2)\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.pdb
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp (2)\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto_agenda_contatos_csharp.Form1.resources
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp (2)\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp (2)\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp (2)\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp (2)\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.AssemblyInfo.cs
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp (2)\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp (2)\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.dll
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp (2)\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\refint\projeto-agenda-contatos-csharp.dll
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp (2)\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.pdb
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp (2)\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.genruntimeconfig.cache
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp (2)\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\ref\projeto-agenda-contatos-csharp.dll
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.exe
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.deps.json
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.runtimeconfig.json
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.dll
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.pdb
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto_agenda_contatos_csharp.Form1.resources
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.csproj.GenerateResource.cache
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.AssemblyInfoInputs.cache
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.AssemblyInfo.cs
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.csproj.CoreCompileInputs.cache
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.dll
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\refint\projeto-agenda-contatos-csharp.dll
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.pdb
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.genruntimeconfig.cache
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\ref\projeto-agenda-contatos-csharp.dll
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.exe
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.deps.json
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.runtimeconfig.json
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.dll
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.pdb
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto_agenda_contatos_csharp.Form1.resources
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.AssemblyInfo.cs
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.dll
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\refint\projeto-agenda-contatos-csharp.dll
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.pdb
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.genruntimeconfig.cache
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\ref\projeto-agenda-contatos-csharp.dll
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto_agenda_contatos_csharp.Properties.Resources.resources
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto_agenda_contatos_csharp.FrmAdicionar.resources
+C:\Users\aluno\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto_agenda_contatos_csharp.FrmEditar.resources
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.exe
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.deps.json
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.runtimeconfig.json
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.dll
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.pdb
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto_agenda_contatos_csharp.Form1.resources
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto_agenda_contatos_csharp.FrmAdicionar.resources
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto_agenda_contatos_csharp.FrmEditar.resources
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto_agenda_contatos_csharp.Properties.Resources.resources
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.csproj.GenerateResource.cache
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.AssemblyInfoInputs.cache
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.AssemblyInfo.cs
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.csproj.CoreCompileInputs.cache
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.dll
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\refint\projeto-agenda-contatos-csharp.dll
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.pdb
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.genruntimeconfig.cache
+C:\ifsp\estrutura de dados\edd2\projeto-agenda-winforms\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\ref\projeto-agenda-contatos-csharp.dll
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.exe
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.deps.json
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.runtimeconfig.json
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.dll
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\bin\Debug\net8.0-windows\projeto-agenda-contatos-csharp.pdb
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto_agenda_contatos_csharp.Form1.resources
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto_agenda_contatos_csharp.FrmAdicionar.resources
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto_agenda_contatos_csharp.FrmEditar.resources
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto_agenda_contatos_csharp.Properties.Resources.resources
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.csproj.GenerateResource.cache
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.AssemblyInfoInputs.cache
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.AssemblyInfo.cs
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.csproj.CoreCompileInputs.cache
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.dll
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\refint\projeto-agenda-contatos-csharp.dll
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.pdb
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\projeto-agenda-contatos-csharp.genruntimeconfig.cache
+C:\Users\stive\Downloads\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\projeto-agenda-contatos-csharp\obj\Debug\net8.0-windows\ref\projeto-agenda-contatos-csharp.dll
